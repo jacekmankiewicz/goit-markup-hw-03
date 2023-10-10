@@ -167,7 +167,8 @@
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color: var(--dark-blue-color)
+    color: var(--dark-blue-color);
+    padding-bottom: 120px;
 }
 .section-four {
     background-color: #F4F4FD;
@@ -197,6 +198,7 @@
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: var(--dark-blue-color);
+    margin-bottom: 72px;
 }
 .section-four-text {
     font-size: 36px;
