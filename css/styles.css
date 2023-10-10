@@ -253,9 +253,8 @@
     color: var(--text-color);
 }
 .logo-link-footer {
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #F4F4FD;
+    display: inline-block;
+    margin-bottom: 16px;
 }
 .logo-footer {
     line-height: 1.5;
