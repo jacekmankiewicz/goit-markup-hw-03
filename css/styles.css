@@ -304,3 +304,8 @@
     border-top: none;
     margin-bottom: 8px;
 }
+.list-portfolio {
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
+}
