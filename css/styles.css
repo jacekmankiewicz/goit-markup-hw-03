@@ -28,6 +28,7 @@
     text-transform: uppercase;
     text-decoration: none;
     color: var(--logo-color);
+    margin-right: 76px;
 }
 .logo::before {
     color: var(--logo-color);
@@ -43,6 +44,8 @@
 }
 .list{
     list-style: none;
+    display: flex;
+    gap: 40px;
 }
 .span {
     color: #f4f4fd;
@@ -52,6 +55,7 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--dark-blue-color);
+    padding: 24px 0;
 }
 .nav-link:hover {
     color:#404bbf;
