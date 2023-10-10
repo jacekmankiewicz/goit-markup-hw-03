@@ -212,6 +212,7 @@
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: var(--dark-blue-color);
+    margin-bottom: 8px;
 }
 .section-four-header {
     font-weight: 500;
@@ -278,4 +279,5 @@
 }
 .main-list-section-two {
     gap: 24px;
+    flex-basis: calc((100% - 3 * 24px) / 4);
 }
