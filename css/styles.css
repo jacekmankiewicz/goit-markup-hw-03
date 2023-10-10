@@ -172,6 +172,7 @@
 }
 .section-four {
     background-color: #F4F4FD;
+    padding: 120px 0;
 }
 .footer {
     background-color: #2e2f42;
@@ -208,6 +209,7 @@
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: var(--dark-blue-color);
+    margin-bottom: 72px;
 }
 .section-two-header {
     font-weight: 500;
@@ -239,6 +241,7 @@
 }
 .section-four-list {
     background-color: #FFFFFF;
+    border-radius: 0px 0px 4px 4px;
 }
 .heading {
     font-weight: 500;
@@ -285,4 +288,8 @@
 }
 .list-section-three {
     gap: 24px;
+}
+.name-and-position {
+    padding: 32px 0px;
+    
 }
