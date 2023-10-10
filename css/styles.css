@@ -13,6 +13,7 @@
    --modal-background-color: #FCFCFC;
    --logo-color: #4d5ae5;
    --dark-blue-color: #2e2f42;
+   --button-color: #e7e9fc;
  }
  body {
      font-family: 'Roboto', sans-serif;
@@ -128,15 +129,20 @@
         letter-spacing: 0.04em;
         color: var(--logo-color);
         background-color: var(--light-color);
+        padding: 12px 24px;
+        border: 1px solid var(--button-color);
+        border-radius: 4px;
 }
 .button-main-section:hover {
     color: #FFFFFF;
     background-color: #404BBF;
+    border: 1px solid transparent;
 }
 
 .button-main-section:focus {
     color: #FFFFFF;
     background-color: #404BBF;
+    border: 1px solid transparent;
 }
 
 .button-main-section:active {
