@@ -62,7 +62,7 @@
 }
 .list-section-two {
     gap: 24px;
-    flex-basis: calc((100% - 72px) / 4);
+    flex-basis: calc((100% - 72px)/4);
 }
 .span {
     color: #f4f4fd;
