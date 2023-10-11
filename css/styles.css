@@ -336,7 +336,6 @@
 }
 .portfolio-cards {
     justify-content: center;
-    display: flex;
     flex-wrap: wrap;
 }
 .portfolio-buttons {
