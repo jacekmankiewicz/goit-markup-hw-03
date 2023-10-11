@@ -350,9 +350,11 @@
     display: flex;
     margin-bottom: 72px;
     flex-wrap: wrap;
+    margin-bottom: 72px;
 }
 .portfolio-item {
     display: flex;
+    gap: 24px;
 }
 .list-portfolio-main-section {
     padding: 32px 16px;
