@@ -70,6 +70,9 @@
 .section-three-item {
     width: calc((100% - 48px)/3);
 }
+.section-four-item {
+    width: calc((100% - 72px)/4);
+}
 .span {
     color: #f4f4fd;
 }
@@ -272,6 +275,7 @@
     background-color: #FFFFFF;
     border-radius: 0px 0px 4px 4px;
     gap: 24px;
+    display: flex;
 }
 .heading {
     font-weight: 500;
