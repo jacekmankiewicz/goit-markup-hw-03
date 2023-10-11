@@ -337,9 +337,7 @@
 .portfolio-buttons {
     flex-wrap: wrap;
     justify-content: center;
-    column-gap: 24px;
     gap: 24px;
-    row-gap: 48px;
     display: flex;
     margin-bottom: 72px;
 }
@@ -349,7 +347,6 @@
     gap: 48px 24px;
 }
 .portfolio-item {
-    display: flex;
 }
 .list-portfolio-main-section {
     padding: 32px 16px;
