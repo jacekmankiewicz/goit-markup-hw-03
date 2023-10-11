@@ -326,7 +326,6 @@
     flex-wrap: wrap;
     justify-content: center;
     margin-bottom: 72px;
-    gap: 24px;
     row-gap: 48px;
     margin-right: 24px;
 }
@@ -334,7 +333,6 @@
     flex-wrap: wrap;
     justify-content: center;
     margin-bottom: 72px;
-    gap: 24px;
     row-gap: 48px;
     margin-right: 0;
 }
