@@ -64,6 +64,9 @@
     gap: 24px;
     display: flex;
 }
+.section-two-item {
+    width: calc((100% - 72px)/4);
+}
 .span {
     color: #f4f4fd;
 }
