@@ -328,6 +328,7 @@
     margin-bottom: 72px;
     row-gap: 48px;
     margin-right: 24px;
+    column-gap: 24px;
 }
 .list-portfolio:last-child {
     flex-wrap: wrap;
@@ -335,6 +336,7 @@
     margin-bottom: 72px;
     row-gap: 48px;
     margin-right: 0;
+    column-gap: 24px;
 }
 .list-portfolio-main-section {
     padding: 32px 16px;
