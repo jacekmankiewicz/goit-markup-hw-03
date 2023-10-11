@@ -309,7 +309,7 @@
 }
 .main-list-section-two {
     gap: 24px;
-    flex-basis: calc((100% - 3 * 24px) / 4);
+    flex-basis: calc((100% - 3 * 24px)/4);
 }
 .list-section-three {
     gap: 24px;
