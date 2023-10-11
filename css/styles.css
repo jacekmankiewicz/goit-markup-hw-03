@@ -317,6 +317,7 @@
 .nav-header {
     display: flex;
     align-items: center;
+    margin-right: 72px;
 }
 .list-section-three {
     gap: 24px;
