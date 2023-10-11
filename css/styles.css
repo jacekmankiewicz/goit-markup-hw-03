@@ -23,6 +23,15 @@
  img {
     display: block;
  }
+ h1,
+ h2,
+ h3,
+ h4,
+ h5,
+ h6,
+ p {
+    margin: 0;
+ }
 .logo {
     font-family: "Raleway", sans-serif;
     font-weight: 800;
@@ -319,10 +328,10 @@
 .list-portfolio {
     flex-wrap: wrap;
     column-gap: 24px;
-    row-gap: 48px;
     justify-content: center;
     margin-bottom: 72px;
     gap: 24px;
+    row-gap: 48px;
 }
 .list-portfolio-main-section {
     padding: 32px 16px;
