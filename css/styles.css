@@ -257,7 +257,8 @@
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: var(--dark-blue-color)
+    color: var(--dark-blue-color);
+    margin-bottom: 8px;
 }
 .paragraph {
     line-height: 1.5;
@@ -316,4 +317,8 @@
     row-gap: 48px;
     justify-content: center;
     margin-bottom: 72px;
+}
+.list-portfolio-main-section {
+    padding: 32px 16px;
+    border: 1px solid #e7e9fc;
 }
