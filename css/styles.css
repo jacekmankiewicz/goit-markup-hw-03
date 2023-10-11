@@ -326,17 +326,17 @@
     flex-wrap: wrap;
     justify-content: center;
     margin-bottom: 72px;
-    row-gap: 48px;
     margin-right: 24px;
+    margin-bottom: 48px;
     column-gap: 24px;
     gap: 24px;
 }
-.list-portfolio:last-child {
+.list-portfolio:nth-child(n + 7) {
     flex-wrap: wrap;
     justify-content: center;
     margin-bottom: 72px;
-    row-gap: 48px;
     margin-right: 0;
+    margin-bottom: 0;
     column-gap: 24px;
     gap: 24px;
 }
