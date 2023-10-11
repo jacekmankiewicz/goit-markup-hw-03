@@ -336,10 +336,6 @@
 }
 .portfolio-cards {
     justify-content: center;
-    column-gap: 24px;
-    row-gap: 48px;
-    gap: 24px;
-    margin-bottom: 72px;
     display: flex;
     flex-wrap: wrap;
 }
