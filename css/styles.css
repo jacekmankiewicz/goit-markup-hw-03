@@ -298,6 +298,7 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--light-color);
+    max-width: 264px;
 }
 .section-four-color {
     background-color: #FFFFFF
