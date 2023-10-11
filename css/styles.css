@@ -335,13 +335,13 @@
     margin-bottom: 8px;
 }
 .portfolio-cards {
-    flex-wrap: wrap;
     justify-content: center;
     column-gap: 24px;
-    gap: 24px;
     row-gap: 48px;
+    gap: 24px;
+    margin-bottom: 72px;
     display: flex;
-    column-gap: 24px;
+    flex-wrap: wrap;
 }
 .portfolio-buttons {
     flex-wrap: wrap;
