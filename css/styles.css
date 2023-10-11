@@ -329,16 +329,14 @@
     margin-right: 24px;
     margin-bottom: 48px;
     column-gap: 24px;
-    gap: 24px;
 }
-.list-portfolio:nth-child(n + 7) {
+.list-portfolio:last-child {
     flex-wrap: wrap;
     justify-content: center;
     margin-bottom: 72px;
     margin-right: 0;
     margin-bottom: 0;
     column-gap: 24px;
-    gap: 24px;
 }
 .list-portfolio-main-section {
     padding: 32px 16px;
