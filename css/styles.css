@@ -329,6 +329,10 @@
     gap: 24px;
     row-gap: 48px;
     display: flex;
+    margin-right: 24px;
+    margin-bottom: 48px;
+    column-gap: 24px;
+    margin-bottom: 72px;
 }
 .portfolio-buttons {
     flex-wrap: wrap;
@@ -343,12 +347,13 @@
     display: flex;
 }
 .portfolio-item {
+    display: flex;
     flex-wrap: wrap;
-        justify-content: center;
-        column-gap: 24px;
-        gap: 24px;
-        row-gap: 48px;
-        display: flex;
+    justify-content: center;
+    column-gap: 24px;
+    gap: 24px;
+    row-gap: 48px;
+    width: calc((100% - 48px)/3);
 }
 .list-portfolio-main-section {
     padding: 32px 16px;
