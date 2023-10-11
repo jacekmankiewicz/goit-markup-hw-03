@@ -352,7 +352,8 @@
 }
 .portfolio-item {
     flex-wrap: wrap;
-    margin-bottom: 72px
+    margin-bottom: 72px;
+    width: calc((100% - 48px)/3);
 }
 .list-portfolio-main-section {
     padding: 32px 16px;
